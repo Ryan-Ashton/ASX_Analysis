@@ -1,3 +1,3 @@
 # ASX_Analysis
 
-Random data preprocessing and quick visuals on Publically available ASX Financial Data.
+Random data pre-processing and quick visuals on publicly available ASX financial data.
